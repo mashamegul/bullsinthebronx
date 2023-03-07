@@ -5,7 +5,7 @@ minesweeper
 typical minesweeper rules
 zZZ
 
-* denotes an untapped tile
+'*' denotes an untapped tile
 
 . is an empty tile
 
